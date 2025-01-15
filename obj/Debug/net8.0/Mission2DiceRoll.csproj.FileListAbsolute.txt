@@ -1,0 +1,14 @@
+/Users/kenna/Desktop/IS413/Mission2DiceRoll/bin/Debug/net8.0/Mission2DiceRoll
+/Users/kenna/Desktop/IS413/Mission2DiceRoll/bin/Debug/net8.0/Mission2DiceRoll.deps.json
+/Users/kenna/Desktop/IS413/Mission2DiceRoll/bin/Debug/net8.0/Mission2DiceRoll.runtimeconfig.json
+/Users/kenna/Desktop/IS413/Mission2DiceRoll/bin/Debug/net8.0/Mission2DiceRoll.dll
+/Users/kenna/Desktop/IS413/Mission2DiceRoll/bin/Debug/net8.0/Mission2DiceRoll.pdb
+/Users/kenna/Desktop/IS413/Mission2DiceRoll/obj/Debug/net8.0/Mission2DiceRoll.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kenna/Desktop/IS413/Mission2DiceRoll/obj/Debug/net8.0/Mission2DiceRoll.AssemblyInfoInputs.cache
+/Users/kenna/Desktop/IS413/Mission2DiceRoll/obj/Debug/net8.0/Mission2DiceRoll.AssemblyInfo.cs
+/Users/kenna/Desktop/IS413/Mission2DiceRoll/obj/Debug/net8.0/Mission2DiceRoll.csproj.CoreCompileInputs.cache
+/Users/kenna/Desktop/IS413/Mission2DiceRoll/obj/Debug/net8.0/Mission2DiceRoll.dll
+/Users/kenna/Desktop/IS413/Mission2DiceRoll/obj/Debug/net8.0/refint/Mission2DiceRoll.dll
+/Users/kenna/Desktop/IS413/Mission2DiceRoll/obj/Debug/net8.0/Mission2DiceRoll.pdb
+/Users/kenna/Desktop/IS413/Mission2DiceRoll/obj/Debug/net8.0/Mission2DiceRoll.genruntimeconfig.cache
+/Users/kenna/Desktop/IS413/Mission2DiceRoll/obj/Debug/net8.0/ref/Mission2DiceRoll.dll
